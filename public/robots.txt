@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bridge-work.ai/sitemap.xml
